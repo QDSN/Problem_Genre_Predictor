@@ -6,5 +6,5 @@
 
 ### 2.問題文、入出力の説明文からタグを予測する自然言語処理モデル
 
-git clone  https://QDSN:<password>@github.com/QDSN/Problem_Genre_Predictor.git
+git clone  https://QDSN:password@github.com/QDSN/Problem_Genre_Predictor.git
 をgoogle driveをマウントしたcolab上で実行することでcolab上にレポジトリをcloneできる
