@@ -8,3 +8,5 @@
 
 git clone  https://QDSN:password@github.com/QDSN/Problem_Genre_Predictor.git
 をgoogle driveをマウントしたcolab上で実行することでcolab上にレポジトリをcloneできる
+
+data,modelsディレクトリは別個に作成
